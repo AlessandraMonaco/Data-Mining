@@ -17,5 +17,7 @@ Clustering is not always a trivial task; it may be challenging, in particular:
 
 ## References
 Dataset : https://www.kaggle.com/camnugent/california-housing-prices
+
 Elbow Method tutorial : https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/
+
 The book from which we got inspired : http://artoffeatureengineering.com/book.html
